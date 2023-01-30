@@ -1,34 +1,34 @@
 let questions = [{
         numb: 1,
-        question: "Which was the first detective satellite sent by USA on 18th august 1960",
-        answer: "Corona",
+        question: "Your Question",
+        answer: "Answer",
         options: [
-            "Sputnik",
-            "Appolo 11",
-            "ISS",
-            "Corona"
+            "Answer",
+            "Answer 1",
+            "Answer 2",
+            "Answer 3"
         ]
     },
     {
         numb: 2,
-        question: "What is the full form of JSON?",
-        answer: "Java Script Object Notation",
+        question: "Your Question",
+        answer: "Answer 1",
         options: [
-            "B.S.2003 Ashoj 04",
-            "B.S.2002 Ashoj 01",
-            "B.S.2004 Ashoj 01",
-            "B.S.2002 Ashoj 04"
+            "Answer",
+            "Answer 1",
+            "Answer 2",
+            "Answer 3"
         ]
     },
     {
         numb: 3,
-        question: "What is the full form of DOM?",
-        answer: "Document Object Model",
+        question: "Your Question",
+        answer: "Answer 2",
         options: [
-            "Document Oriented Model",
-            "Document Object Model",
-            "Document Object Malware",
-            "Document Orientation Module"
+            "Answer",
+            "Answer 1",
+            "Answer 2",
+            "Answer 3"
         ]
     },
     {
